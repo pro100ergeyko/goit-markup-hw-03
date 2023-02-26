@@ -104,6 +104,9 @@ body {
 .site-nav-link:hover,
 .site-nav-link:focus {
     color: var(--link-color);
+    border-bottom: 4px solid var(--link-color-hover);
+    border-radius: 2px;
+    padding-bottom: 20px;
 }
 
 /* Adress */
