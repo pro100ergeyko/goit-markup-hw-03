@@ -367,7 +367,6 @@ body {
 
 /* Footer */
 .footer {
-    width: 1440px;
     background-color: var(--title-text-color);
 }
 
